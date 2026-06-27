@@ -4,9 +4,8 @@ __Supply Chain Optimization Dashboard: Supplier & Logistics Performance__
 
 ### Project Overview :
 
-This project analyzes 5,000 orders across 3 years (2021–2023) for a company's supply chain operations. 
-
-Using 3 interconnected tables, we evaluate supplier reliability, logistics efficiency, delivery performance, and quality metrics (damaged/returns). 
+This project provides a comprehensive SQL- and Power BI-based analytics solution for evaluating supply chain performance across 5,000 orders (2021–2023). 
+The analysis covers supplier reliability, logistics efficiency, delivery performance, and quality metrics — delivering actionable insights that identify a 10–15% cost reduction potential and key bottlenecks in manufacturing lead times.
 
 Key focus: Identify bottlenecks, top suppliers, and cost-saving opportunities to support supply chain decision-making and improve customer satisfaction.
 
