@@ -11,7 +11,7 @@ Key focus: Identify bottlenecks, top suppliers, and cost-saving opportunities to
 
 Business Impact: 80.34% on-time delivery; $500K avg freight/order volume; 3.61% damage rate—actionable insights to reduce costs by 10–15%.
 
-![Overall KPI Summary Table from SQL Query]( [https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/Overall%20KPI%20Summary%20Table%20from%20SQL%20Query.png](https://github.com/amer-deiri/Supply-Chain-Performance-Dashboard-SQL-Power-BI/blob/main/dashboard/screenshots/01_overall_kpi_summary.png))
+![Overall KPI Summary](dashboard/screenshots/01_overall_kpi_summary.png)
 
 ### Dataset Used : 
 
@@ -73,9 +73,9 @@ Total: 5,000 unique orders; No missing keys; Merged on Order Number & Supplier I
 
 5- Validate: No orphans; 100% match.
 
-![SQL Cleaning Queries & Execution Plan]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/datacleaning%20_1.png)
-![SQL Cleaning Queries & Execution Plan]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/datacleaning%20_2.png)
-![SQL Cleaning Queries & Execution Plan]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/datacleaning%20_3.png)
+![SQL Cleaning Queries 1](dashboard/screenshots/04_data_cleaning_1.png)
+![SQL Cleaning Queries 2](dashboard/screenshots/05_data_cleaning_2.png)
+![SQL Cleaning Queries 3](dashboard/screenshots/06_data_cleaning_3.png)
 
 
 
@@ -105,7 +105,7 @@ H7L      | 1,719  | 81.0     | 4.55 |
 Star     | 1,665  | 80.1     | 4.49 | 
 AG       | 1,616  | 80.0     | **4.41** (Best) |
 
-![SSMS Results Grid]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/SSMS%20Results%20Grid.png)
+![SSMS Results Grid](dashboard/screenshots/03_ssms_results_grid.png)
 
 ### Data Analysis & Results
 
@@ -143,5 +143,5 @@ AG       | 1,616  | 80.0     | **4.41** (Best) |
 
 
 
-![Supplier Performance Chart]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/Supplier%20Performance%20Chart.png)
+![Supplier Performance Chart](dashboard/screenshots/02_supplier_performance_chart.png)
 
