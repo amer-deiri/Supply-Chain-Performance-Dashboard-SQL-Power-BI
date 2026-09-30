@@ -11,7 +11,7 @@ Key focus: Identify bottlenecks, top suppliers, and cost-saving opportunities to
 
 Business Impact: 80.34% on-time delivery; $500K avg freight/order volume; 3.61% damage rate—actionable insights to reduce costs by 10–15%.
 
-![Overall KPI Summary Table from SQL Query]( https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/Overall%20KPI%20Summary%20Table%20from%20SQL%20Query.png)
+![Overall KPI Summary Table from SQL Query]( [https://github.com/amer-deiri/Supply-Chain-Performance-Analysis-Using-SQL/blob/main/Overall%20KPI%20Summary%20Table%20from%20SQL%20Query.png](https://github.com/amer-deiri/Supply-Chain-Performance-Dashboard-SQL-Power-BI/blob/main/dashboard/screenshots/01_overall_kpi_summary.png))
 
 ### Dataset Used : 
 
